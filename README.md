@@ -1,4 +1,4 @@
-# Hi, I'm Kaustubh Pandey! 👋
+# Hello, I'm Kaustubh Pandey! 👋
 
 🚀 **Engineering | AI | Optimization | Research**  
 📍 Civil Engineering @ IIT Bombay | Minor in Industrial Engineering and Operations Research  
